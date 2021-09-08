@@ -1,6 +1,6 @@
-### Olá!!! sou a Nathalia Araujo
  <img align="right" height=150em alt="nat-giphy" src="https://media.discordapp.net/attachments/707926636187877386/885037470301945876/natt.gif?width=376&height=376">
 
+### Olá!!! sou a Nathalia Araujo
 
 - 🌱 Estudando javascript
 - 📫 Contate-me no email: nathalia.santos@bandtec.com
