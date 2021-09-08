@@ -31,7 +31,7 @@
     <a href="https://www.instagram.com/devnataraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/devnathalia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
-   ![Snake animation](https://github.com/rafaballerini/blob/outpu/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/devnataraujo/devnataraujo/blob/output/github-contribution-grid-snake.svg)
   </div>
  
 
