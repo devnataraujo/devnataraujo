@@ -3,8 +3,8 @@
 ### Olá!!! sou a Nathalia Araujo
 
 - 🌱 Estudando javascript
-- 👾 Aluna na Bandtec 
-- 📫 Contate-me no email: nathalia.santos@bandtec.com
+- 👾 Aluna na Impacta
+- 📫 Contate-me no email: nathaliaaraujosantos8@gmail.com
 - 😄 Pronomes: ela/dela
  
 
