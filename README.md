@@ -2,7 +2,7 @@
 
 ### Olá!!! sou a Nathalia Araujo
 
-- 🌱 Estudando javascript
+- 🌱 Estudando javascript e python
 - 👾 Aluna na Impacta
 - 📫 Contate-me no email: nathaliaaraujosantos8@gmail.com
 - 😄 Pronomes: ela/dela
